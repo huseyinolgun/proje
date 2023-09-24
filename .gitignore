@@ -1,2 +1,4 @@
 /sifreler.txt
 /notlar.txt
+*.md
+!README.md
